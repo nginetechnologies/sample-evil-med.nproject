@@ -3,7 +3,10 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Evil Med",
-        "thumbnail": "d5ee0d96-f451-23d0-ce9d-d46265c86fb1"
+        "thumbnail": "d5ee0d96-f451-23d0-ce9d-d46265c86fb1",
+        "tags": [
+            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
     },
     "decbedfc-eac6-1875-80ea-6c13ce468a77": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
