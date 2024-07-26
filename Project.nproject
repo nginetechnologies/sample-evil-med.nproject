@@ -1,6 +1,7 @@
 {
     "name": "Evil Med",
     "guid": "3b42cf4f-eadd-417c-8829-f5a26e0ce30d",
+    "database_guid": "decbedfc-eac6-1875-80ea-6c13ce468a77",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -11,7 +12,7 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "8ad8ad6a-5ade-4713-859b-4ef8705cf708",
+    "thumbnail_guid": "d5ee0d96-f451-23d0-ce9d-d46265c86fb1",
     "default_scene": "ff552a33-a922-4fab-ab81-41a420714d6d",
     "source": "Project.nproject",
 	"settings": {

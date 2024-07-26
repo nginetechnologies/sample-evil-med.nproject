@@ -5,46 +5,6 @@
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 4096.0
     },
-    "data_components": [
-        {
-            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
-        },
-        {
-            "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
-            "camera_settings": {
-                "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
-                "9ae0e145-86b4-4e47-afda-697bbd008922": {
-                    "fieldOfView": 60.0,
-                    "nearPlane": 0.1,
-                    "farPlane": 128.0
-                }
-            },
-            "transform": {
-                "position": [
-                    -11.9447,
-                    -12.9776,
-                    12.8029
-                ],
-                "rotation": [
-                    -33.7541,
-                    -0.0,
-                    -48.6989
-                ]
-            },
-            "grid_settings": {
-                "typeGuid": "ecc5ac5d-5450-4808-97b1-e25d91462d96",
-                "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
-                    "transform": {
-                        "scale": [
-                            -1.0,
-                            -1.0,
-                            1.0
-                        ]
-                    }
-                }
-            }
-        }
-    ],
     "children": [
         {
             "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",

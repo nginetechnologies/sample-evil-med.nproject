@@ -1,0 +1,21 @@
+{
+    "3b42cf4f-eadd-417c-8829-f5a26e0ce30d": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Evil Med",
+        "thumbnail": "d5ee0d96-f451-23d0-ce9d-d46265c86fb1"
+    },
+    "decbedfc-eac6-1875-80ea-6c13ce468a77": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "ff552a33-a922-4fab-ab81-41a420714d6d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Evil Med.scene.nasset"
+    },
+    "guid": "decbedfc-eac6-1875-80ea-6c13ce468a77",
+    "imported_assets": [
+        "d5ee0d96-f451-23d0-ce9d-d46265c86fb1"
+    ]
+}
